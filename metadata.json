@@ -1,0 +1,6 @@
+{
+  "name": "EduTrack Pro",
+  "description": "Comprehensive school management, real-time attendance, syllabus tracking, marks & assessments, and Google Sheets bidirectional sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
